@@ -8,4 +8,5 @@ Here is the documentation for the {{ cookiecutter.project_name }} project.
 ./contributor_guide/README.md
 ./aqa/README.md
 ./structure/README.md
+./reference/README.md
 ```
